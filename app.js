@@ -1,1 +1,1 @@
-console.log("Hola ITEC 2026");
+console.log("Hola GitHub, estoy estudiando en el ITEC");
